@@ -13,9 +13,9 @@ name,firstName,dept,salary,totalSalary,gender
 "Gross,William G.",William,Boston Police Department,199244.0,225338.0,male
 "Leonard,David J",David,Boston Public Library,190000.0,210654.0,male
 "Stallworth,Andre R",Andre,Boston Fire Department,187325.0,238724.0,male
-"Ruggere,Michael J",Michael,Boston Fire Department,186929.0,244362.0,male
-"Fleming,Joseph Michael",Joseph,Boston Fire Department,186929.0,224814.0,male
 "Calobrisi,Robert J.",Robert,Boston Fire Department,186929.0,233349.0,male
+"Fleming,Joseph Michael",Joseph,Boston Fire Department,186929.0,224814.0,male
+"Ruggere,Michael J",Michael,Boston Fire Department,186929.0,244362.0,male
 "Tully,Bernard J.",Bernard,Boston Fire Department,186105.0,220720.0,male
 "Mancini,Frank A",Frank,Boston Police Department,181983.0,239961.0,male
 "Holmes,Lisa R.",Lisa,Boston Police Department,181983.0,229069.0,female
@@ -75,11 +75,11 @@ name,firstName,dept,salary,totalSalary,gender
 "Burke,Christopher",Christopher,Boston Fire Department,163435.0,186055.0,male
 "Whitman,Jeffrey M",Jeffrey,Boston Fire Department,163312.0,209921.0,male
 "Stapleton,John",John,Boston Fire Department,163210.0,198315.0,male
-"Whitman,Steven M",Steven,Boston Police Department,163209.0,209168.0,male
-"Bailey,Gerard W",Gerard,Boston Police Department,163209.0,217839.0,male
-"Walcott,Jeffrey I",Jeffrey,Boston Police Department,163209.0,209218.0,male
-"Cox,Michael A",Michael,Boston Police Department,163209.0,215339.0,male
 "White,Dennis A",Dennis,Boston Police Department,163209.0,209168.0,male
+"Cox,Michael A",Michael,Boston Police Department,163209.0,215339.0,male
+"Walcott,Jeffrey I",Jeffrey,Boston Police Department,163209.0,209218.0,male
+"Bailey,Gerard W",Gerard,Boston Police Department,163209.0,217839.0,male
+"Whitman,Steven M",Steven,Boston Police Department,163209.0,209168.0,male
 "Rodriguez,Jonathan",Jonathan,Boston Fire Department,163131.0,198760.0,male
 "Sloane,Christopher",Christopher,Boston Fire Department,163032.0,199726.0,male
 "McNeil,Stephen D",Stephen,Boston Fire Department,162647.0,223266.0,male

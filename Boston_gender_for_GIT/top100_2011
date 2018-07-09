@@ -1,0 +1,101 @@
+name,firstName,dept,salary,totalSalary,gender
+"Johnson,Carol R",Carol,Boston Public Schools,266750.0,323222.0,female
+"Ryan,Amy E",Amy,Boston Public Library,175000.0,195000.0,female
+"Menino,Thomas M.",Thomas,Mayor's Office,175000.0,175000.0,male
+"McDonough,John P",John,Boston Public Schools,174492.0,177725.0,male
+"Goar,Michael",Michael,Boston Public Schools,174407.0,177715.0,male
+"Tully,Bernard J.",Bernard,Boston Fire Department,174291.0,187186.0,male
+"Fraser Jr.,Roderick J",Roderick,Boston Fire Department,174200.0,174200.0,male
+"Davis,Edward F",Edward,Boston Police Department,174200.0,177550.0,male
+"Fontana,Gerard T.",Gerard,Boston Fire Department,173879.0,200486.0,male
+"Granara,David Richard",David,Boston Fire Department,173841.0,196154.0,male
+"Evans,James R",James,Boston Fire Department,170722.0,184046.0,male
+"Doherty,Michael J.",Michael,Boston Fire Department,165549.0,191051.0,male
+"Coppney,John T.",John,Boston Fire Department,163254.0,172602.0,male
+"Linskey,Daniel P",Daniel,Boston Police Department,161017.0,200320.0,male
+"Finn,Joseph E.",Joseph,Boston Fire Department,158030.0,189235.0,male
+"Fleming,Joseph Michael",Joseph,Boston Fire Department,158030.0,180389.0,male
+"Henderson,John",John,Boston Fire Department,158030.0,179676.0,male
+"Dunderdale,Robert",Robert,Boston Fire Department,158030.0,192372.0,male
+"Dunbar,Stephen K",Stephen,Boston Fire Department,158030.0,187049.0,male
+"DiBenedetto,Richard John",Richard,Boston Fire Department,158030.0,188445.0,male
+"Hasson,John",John,Boston Fire Department,156918.0,185495.0,male
+"Joseph,David W",David,Boston Fire Department,156553.0,171982.0,male
+"Holzendorf,Curtis",Curtis,Boston Fire Department,155526.0,172582.0,male
+"Oates,William",William,Dpt of Innovation & Technology,154875.0,157853.0,male
+"Burke,Paul T",Paul,Boston Fire Department,153758.0,180427.0,male
+"Holloway,Bruce A",Bruce,Boston Police Department,153350.0,173629.0,male
+"Ruiz,Rafael E",Rafael,Boston Police Department,153350.0,195062.0,male
+"Evans,William B",William,Boston Police Department,153350.0,195062.0,male
+"Fitzgerald,Paul A",Paul,Boston Police Department,153350.0,195062.0,male
+"Fong,Kenneth",Kenneth,Boston Police Department,153350.0,195062.0,male
+"Joyce Jr.,Paul F",Paul,Boston Police Department,153350.0,195112.0,male
+"O'Donnell,Brian C.",Brian,Boston Fire Department,152729.0,159224.0,male
+"Ruggere,Michael J",Michael,Boston Fire Department,151714.0,183037.0,male
+"Ahern,William P",William,Boston Fire Department,150809.0,157028.0,male
+"Verre,John M.",John,Boston Public Schools,149341.0,149341.0,male
+"Cabral,Linda",Linda,Boston Public Schools,148141.0,148141.0,female
+"Shea,Joseph P",Joseph,Boston Public Schools,147788.0,151990.0,male
+"Calobrisi,Robert J.",Robert,Boston Fire Department,146683.0,182823.0,male
+"Keating,Ronald Walter",Ronald,Boston Fire Department,146637.0,313566.0,male
+"Weiss,Mitchell",Mitchell,Mayor's Office,145000.0,147788.0,male
+"Pizzarella,Gloria A.",Gloria,State Boston Retirement Syst,144071.0,149610.0,female
+"Shea,Bartholomew J",Bartholomew,Boston Fire Department,143459.0,162953.0,male
+"McDevitt,Daniel J",Daniel,Boston Fire Department,142937.0,165620.0,male
+"Kineavy,Michael J.",Michael,Mayor's Office,141075.0,146501.0,male
+"Galvin,Michael J.",Michael,Property Management,140400.0,143100.0,male
+"Miller,Paul S",Paul,Boston Fire Department,140226.0,157937.0,male
+"Murphy,Joseph W.",Joseph,Boston Fire Department,140081.0,149044.0,male
+"Marston,Ronald",Ronald,Boston Fire Department,140006.0,161712.0,male
+"Keeley,Paul P",Paul,Boston Fire Department,139625.0,161545.0,male
+"Bishop,George W",George,Boston Fire Department,139407.0,160407.0,male
+"McAfee,Charles E",Charles,Boston Public Schools,139087.0,139087.0,male
+"Mitchell,Charles E",Charles,Boston Fire Department,139076.0,176025.0,male
+"Pettaway,Erik C",Erik,Boston Fire Department,138930.0,166674.0,male
+"McNeil,Stephen D",Stephen,Boston Fire Department,138862.0,170453.0,male
+"Dowling,Robert L.",Robert,Boston Fire Department,138648.0,158981.0,male
+"Rushton,Steven P",Steven,Boston Fire Department,138648.0,154883.0,male
+"Dempsey,John",John,Boston Fire Department,138478.0,161515.0,male
+"Goglia,William J",William,Boston Fire Department,138381.0,156764.0,male
+"Walsh,John Francis",John,Boston Fire Department,138379.0,159817.0,male
+"Smith,Douglas W",Douglas,Boston Fire Department,138179.0,161079.0,male
+"Rakow,Ronald W.",Ronald,Assessing Department,138124.0,140629.0,male
+"Riley,Jeffrey C",Jeffrey,Boston Public Schools,138095.0,146095.0,male
+"Stallworth,Andre R",Andre,Boston Fire Department,137953.0,164741.0,male
+"Loftus,James Francis",James,Boston Fire Department,137880.0,159754.0,male
+"Magee,Richard B",Richard,Boston Fire Department,137845.0,143507.0,male
+"Carey,John",John,Boston Fire Department,137756.0,155047.0,male
+"Whitman,Jeffrey M",Jeffrey,Boston Fire Department,137544.0,161646.0,male
+"Felton,Richard F.",Richard,Boston Fire Department,137542.0,163224.0,male
+"Neimann,Joseph",Joseph,Boston Fire Department,137542.0,162753.0,male
+"Paschal,Stephen P",Stephen,Boston Fire Department,137542.0,159438.0,male
+"O'Donnell,John K.",John,Boston Fire Department,137542.0,159837.0,male
+"McMahon,Joseph G",Joseph,Boston Fire Department,137537.0,160432.0,male
+"Costin,Dennis B",Dennis,Boston Fire Department,137455.0,168053.0,male
+"Hocking,Michael E",Michael,Boston Fire Department,137330.0,158286.0,male
+"Buckley,Kevin J",Kevin,Boston Police Department,136920.0,174248.0,male
+"Nee,Kelly A",Kelly,Boston Police Department,136920.0,171324.0,female
+"Lee,Thomas F",Thomas,Boston Police Department,136920.0,174248.0,male
+"Halstead,Randall J",Randall,Boston Police Department,136920.0,175105.0,male
+"Baston,Nora L",Nora,Boston Police Department,136920.0,171150.0,female
+"Lydon,Colm P.",Colm,Boston Police Department,136920.0,174298.0,male
+"Gross,William G.",William,Boston Police Department,136920.0,155117.0,male
+"Daley,John J",John,Boston Police Department,136920.0,155117.0,male
+"Greeley,Darrin Patrick",Darrin,Boston Police Department,136920.0,174298.0,male
+"Cox,Michael A",Michael,Boston Police Department,136920.0,174298.0,male
+"Rubin,Michael",Michael,Boston Public Schools,136854.0,136854.0,male
+"Creamer,Stephen P.",Stephen,Boston Fire Department,136727.0,142417.0,male
+"Clifford,Peter J.",Peter,Boston Fire Department,136393.0,140582.0,male
+"Lowe-Barehmi,Valerie",Valerie,Boston Public Schools,135928.0,143928.0,female
+"Weenick,Meredith",Meredith,Treasury-Treasury Division,135698.0,141902.0,female
+"Sinnott,William F",William,Law Department,135200.0,137800.0,male
+"Friedman,Evelyn",Evelyn,Neighborhood Development,135000.0,137596.0,female
+"McNulty,Joseph G.",Joseph,Boston Fire Department,134604.0,172866.0,male
+"Andres,Alfredo",Alfredo,Boston Police Department,134441.0,166450.0,male
+"Bruynell,James D",James,Boston Fire Department,134055.0,144173.0,male
+"Staunton,Robert M",Robert,Boston Fire Department,133666.0,143164.0,male
+"Andrews,Martin M.",Martin,Boston Fire Department,132825.0,154215.0,male
+"Anderson,Edward A",Edward,Boston Fire Department,132639.0,166095.0,male
+"Kelleher,Edward F.",Edward,Boston Public Schools,132559.0,141267.0,male
+"Whitman,Steven M",Steven,Boston Police Department,131801.0,166048.0,male
+"Brooks,Michele P.",Michele,Boston Public Schools,131616.0,131616.0,female
